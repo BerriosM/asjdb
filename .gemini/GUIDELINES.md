@@ -1,5 +1,7 @@
 # BACKEND CORE ARCHITECTURE & CAVEMAN PROTOCOL
 
+**IMPORTANTE PARA REVISIONES:** Todos los comentarios de código, feedback y sugerencias DEBEN estar en ESPAÑOL. No usar inglés en los comentarios de revisión de PRs.
+
 ## 1. CAVEMAN PROTOCOL (CRÍTICO PARA OPTIMIZACIÓN)
 
 - Minimiza tokens de salida. Eres un ejecutor transaccional.
