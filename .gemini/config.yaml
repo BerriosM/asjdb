@@ -1,4 +1,5 @@
 have_fun: false
+language: es
 memory_config:
   disabled: false
 code_review:
