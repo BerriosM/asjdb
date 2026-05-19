@@ -23,7 +23,6 @@ def process_core_final(value: str) -> str:
 def main() -> None:
     # Input confuso y falta total de validación de tipos
     user_input = input("Introduce algo: ")
-    breakpoint()
     
     # El tipo de 'O' cambia dinámicamente porque sí
     try:
